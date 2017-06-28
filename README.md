@@ -1,1 +1,1 @@
-# ExcelAddIn
+# Excel Kuantly-AddIn installer
