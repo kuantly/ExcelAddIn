@@ -1,1 +1,3 @@
-#test
+#USAGE
+
+#KYLOGIN(email,apikey)
